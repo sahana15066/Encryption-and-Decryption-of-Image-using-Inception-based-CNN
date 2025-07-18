@@ -398,5 +398,6 @@ encrypted_img_pil = Image.fromarray(encrypted_img.astype(np.uint8))
 decrypted_img = decrypt(np.array(encrypted_img_pil), derived_key)
 decrypted_img_pil = Image.fromarray(decrypted_img.astype(np.uint8))
 
-# Plot the results
-"C:\Users\Asus\Downloads\pic.jpg"
+//RESULTS:
+![pic](https://github.com/user-attachments/assets/38f60bd3-ae33-4854-a1fb-80010bc76253)
+
